@@ -1,0 +1,9 @@
+-e#!/bin/bash \n echo "School"
+-e#!/bin/bash \n echo "School"
+-e#!/bin/bash /n echo "School"
+-e#!/bin/bash\necho "School"
+-e#!/bin/bash /n echo "School"
+-e#!/bin/bash
+-eecho "School"
+echo "School"
+#!/bin/bash
